@@ -1,14 +1,14 @@
 # Efficient Marine Organism Detector (EMOD) for Marine Video Surveillance
 
 We release the code of Efficient Marine Organism Detector (EMOD) in our papers:  
-- Detecting Marine Organisms via Joint Attention-Relation Learning for Marine Video Surveillance. (IEEE JOE, Under Review)
-- [Detecting Organisms for Marine Video Surveillance](https://doi.org/10.1109/IEEECONF38699.2020.9389458). (Global Oceans 2020)
+- Detecting Marine Organisms via Joint Attention-Relation Learning for Marine Video Surveillance. (IEEE Journal of Oceanic Engineering, 2022, DOI: [10.1109/JOE.2022.3162864](https://doi.org/10.1109/JOE.2022.3162864) (DOI currently unavailable))
+- Detecting Organisms for Marine Video Surveillance. (Global OCEANS 2020, DOI: [10.1109/IEEECONF38699.2020.9389458](https://doi.org/10.1109/IEEECONF38699.2020.9389458))
 
 ```
 @inproceedings{shi2020detecting,
   title={Detecting Organisms for Marine Video Surveillance},
   author={Shi, Zhensheng and Guan, Cheng and Cao, Liangjie and Li, Qianqian and Liang, Ju and Guo, Zonghui and Gu, Zhaorui and Zheng, Haiyong and Zheng, Bing},
-  booktitle={Global Oceans 2020: Singapore--US Gulf Coast},
+  booktitle={Global OCEANS 2020: Singapore--US Gulf Coast},
   pages={1--7},
   year={2020},
   organization={IEEE}
